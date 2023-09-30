@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Sharma</h1>
-<h3 align="center">A passionate frontend developer from Uttar Pradesh , India</h3>
+<h3 align="center">A Passionate Software Engineer From Uttar Pradesh , India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-2677&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-2677" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj-2677" alt="dheeraj-2677" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently Learning **Data Structure and Algorithms**
 
 - 💬 Ask me about **Java , DSA , front-End Development**
 
